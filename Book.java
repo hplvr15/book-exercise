@@ -20,7 +20,25 @@ class Book
     {
         author = bookAuthor;
         title = bookTitle;
-    }
-
+    } 
+        public String getAuthor()
+        {
+            return author;
+        }
+        
+        public String getTitle()
+        {
+            return title;
+        }
+        
+        public void setAuthor(String bookAuthor)
+        {
+            author = bookAuthor;
+        }
+        
+        public void setTitle(String bookTitle)
+        {
+          title = bookTitle;  
+        }
     // Add the methods here ...
 }
