@@ -18,4 +18,6 @@ comment7.params=
 comment7.target=void\ printAuthor()
 comment8.params=
 comment8.target=void\ printTitle()
-numComments=9
+comment9.params=
+comment9.target=void\ printDetails()
+numComments=10
